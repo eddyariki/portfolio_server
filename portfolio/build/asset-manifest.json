@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.14678b50.chunk.css",
-    "main.js": "/static/js/main.b8683f78.chunk.js",
-    "main.js.map": "/static/js/main.b8683f78.chunk.js.map",
+    "main.js": "/static/js/main.05ddca86.chunk.js",
+    "main.js.map": "/static/js/main.05ddca86.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
     "static/js/2.3f2a517f.chunk.js": "/static/js/2.3f2a517f.chunk.js",
     "static/js/2.3f2a517f.chunk.js.map": "/static/js/2.3f2a517f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d9b0bfcc90a5b3f33de869d0b3729e47.js": "/precache-manifest.d9b0bfcc90a5b3f33de869d0b3729e47.js",
+    "precache-manifest.0f4b6b741e06984fb6a184e9a02e973c.js": "/precache-manifest.0f4b6b741e06984fb6a184e9a02e973c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.14678b50.chunk.css.map": "/static/css/main.14678b50.chunk.css.map",
     "static/js/2.3f2a517f.chunk.js.LICENSE.txt": "/static/js/2.3f2a517f.chunk.js.LICENSE.txt",
@@ -20,7 +20,7 @@
     "static/media/SimplyType600.png": "/static/media/SimplyType600.6280262a.png",
     "static/media/TelegramBot600.png": "/static/media/TelegramBot600.1de73595.png",
     "static/media/holes.jpg": "/static/media/holes.6613ac30.jpg",
-    "static/media/mossy2.png": "/static/media/mossy2.6a164e8c.png",
+    "static/media/mossy2.jpg": "/static/media/mossy2.c2a4fb53.jpg",
     "static/media/warp.frag": "/static/media/warp.416a6787.frag",
     "static/media/warp.vert": "/static/media/warp.c7cfcd6a.vert"
   },
@@ -28,6 +28,6 @@
     "static/js/runtime-main.19ccc7f6.js",
     "static/js/2.3f2a517f.chunk.js",
     "static/css/main.14678b50.chunk.css",
-    "static/js/main.b8683f78.chunk.js"
+    "static/js/main.05ddca86.chunk.js"
   ]
 }

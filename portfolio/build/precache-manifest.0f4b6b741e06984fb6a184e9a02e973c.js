@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6562d00fe33b607346433d3630b52bd9",
+    "revision": "a4e1f0e79dd855e13b3fe536a3a62812",
     "url": "/index.html"
   },
   {
-    "revision": "25ea57fe9ddbb2d37a8a",
+    "revision": "23de1a290497df9f441d",
     "url": "/static/css/main.14678b50.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.3f2a517f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "25ea57fe9ddbb2d37a8a",
-    "url": "/static/js/main.b8683f78.chunk.js"
+    "revision": "23de1a290497df9f441d",
+    "url": "/static/js/main.05ddca86.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/holes.6613ac30.jpg"
   },
   {
-    "revision": "6a164e8caf8833e8746c17e9ef3678f3",
-    "url": "/static/media/mossy2.6a164e8c.png"
+    "revision": "c2a4fb53422784a70a2ea781fe71b02e",
+    "url": "/static/media/mossy2.c2a4fb53.jpg"
   },
   {
     "revision": "416a6787a9993685648a737d20c1f091",
